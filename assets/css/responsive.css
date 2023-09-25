@@ -1,0 +1,230 @@
+@media (min-width: 1200px) {
+
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (min-width: 992px) {
+
+        /* ==== service section start ====== */
+    #services {
+        padding: 1em 3em;
+    }
+
+    .service-column {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+
+    /* ==== service section end ====== */
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 991px) {
+    .navbar{
+        padding-bottom: 30px !important;
+    }
+    /* ==== About section Start ====== */
+    .about-img{
+        padding: 20px 0 0 0 !important;
+    }
+    /*.about-img img {*/
+
+    /*    width: 100%;*/
+    /*    min-height: 300px !important;*/
+    /*    object-fit: cover;*/
+    /*    border-radius: 50% !important;*/
+    /*}*/
+    .about-right p{
+        padding: 20px 0 0 !important;
+
+    }
+    /* ==== About section end ====== */
+}
+
+@media (min-width: 481px) and (max-width: 991px) {
+
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+
+
+}
+
+@media (min-width: 768px) {
+    /* ==== service section start ====== */
+    #services {
+        padding: 1em 3em;
+    }
+
+    .service-column {
+        flex: 0 0 33.33% !important;
+        max-width: 33.33% !important;
+    }
+
+    /* ==== service section end ====== */
+
+
+}
+
+@media (max-width: 767px) {
+
+    .wrapper .topline::before {
+        left: 40% !important;
+    }
+
+    .hero-section .right-side {
+        text-align: center;
+    }
+
+    .email-contact {
+        float: unset !important;
+
+    }
+
+    .email-contact a {
+        justify-content: center;
+    }
+
+    .email-contact .content {
+        text-align: center !important;
+    }
+
+    .email-contact .icon {
+        font-size: 14px;
+        height: 40px !important;
+        width: 40px !important;
+
+    }
+
+    .email-contact h3 {
+        font-size: 14px !important;
+
+
+    }
+
+    .email-contact .content {
+
+        padding-right: 0px !important;
+    }
+}
+
+@media (min-width: 536px) and (max-width: 767px) {
+
+}
+
+@media (min-width: 481px) and (max-width: 601px) {
+}
+
+@media (min-width: 481px) and (max-width: 535px) {
+}
+
+@media (max-width: 480px) {
+
+    /*header-part*/
+    /*.nav-part2 .icon{*/
+    /*    padding: 5px !important;*/
+    /*}*/
+
+
+        /*header-part*/
+
+    .about-right {
+        padding: 15px !important;
+
+    }
+
+    .about-right li {
+        padding: 5px 0 !important;
+        align-items: baseline !important;
+        gap: 5px !important;
+    }
+
+    .about-img img {
+        /*height: 300px !important;*/
+        /*width: 300px !important;*/
+        /*border-radius: 50% !important;*/
+
+    }
+
+    /*.tab-background h5{*/
+    /*    font-size: 16px !important;*/
+    /* */
+    /*}*/
+
+
+
+    /*    Service section start*/
+    .projects-filter{
+        margin: 5px !important;
+    }
+    .projects-filter li{
+        margin: 5px !important;
+        letter-spacing: 0px !important;
+    }
+
+    /*    Service section end*/
+
+
+    /*    Testimonial section*/
+    .testimonial p {
+        margin: 5px !important;
+        /* background-color: var(--color_primary); */
+        box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+        border-radius: 3px;
+        padding: 5px !important;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 60px !important;
+        border-radius: 50%;
+        height: 60px !important;
+        object-fit: cover;
+        position: absolute;
+        top: 65% !important;
+        left: 5% !important;
+        right: 0;
+        bottom: 0;
+        z-index: 999;
+    }
+
+    .overview-content {
+        position: absolute;
+        bottom: 10% !important;
+        left: 30% !important;
+        text-align: left;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 450px) {
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+
+}
+
+@media (max-width: 370px) {
+}
+
+@media (min-width: 340px) and (max-width: 370px) {
+}
+
+@media (max-width: 340px) {
+
+}
