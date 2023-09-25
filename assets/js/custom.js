@@ -141,7 +141,7 @@
     });
     //Service Section
     tl.from("#services", {
-        y: -200,
+        y: -100,
         duration: 1,
         opacity: 0,
         stagger: 0.3
