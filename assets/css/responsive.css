@@ -83,6 +83,19 @@
 }
 
 @media (max-width: 767px) {
+    /*Skill start*/
+
+    .skill-design .skill-img  img{
+        height: 8vmax !important;
+        margin-right: 12px;
+        background-color: #fff;
+        padding: 3px !important;
+        position: relative;
+        border-radius: 10px;
+
+    }
+    /*Skill end*/
+
 
     .wrapper .topline::before {
         left: 40% !important;

@@ -651,6 +651,28 @@ a:hover{
 
 /*skill*/
 /*** Skills ***/
+
+
+.skill-design{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.skill-design .skill-img  img{
+    height: 5vmax;
+    margin-right: 12px;
+    background-color: #fff;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+
+}
+
+
+
 #skill-part {
     padding: 80px 0;
 }
